@@ -48,3 +48,26 @@
     justify-content: center;
     align-items: center;
   }
+
+  @media only screen and (max-width: 800px) {
+    
+    .gameContainer button {
+      width: 180px;
+
+    }
+  
+  
+  }
+  
+  @media only screen and (max-width: 600px) {
+    .options {
+      width: 300px;
+      margin-left: 100px;
+    }
+
+    h1 {
+      font-weight: 800;
+    }
+  
+    
+  }

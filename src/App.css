@@ -36,8 +36,9 @@ p {
 
 }
 
+
 .intro {
-  width: 400px;
+  max-width:  400px;
   text-align: justify;
   text-align-last: center;
 }
@@ -86,4 +87,27 @@ p {
 h2 {
   color: red;
   font-size: 36px;
+}
+
+@media only screen and (max-width: 700px) {
+  h1 {
+    font-size: 20px;
+  }
+  p {
+    font-size: 15px;
+  }
+
+
+}
+
+@media only screen and (max-width: 400px) {
+  .intro {
+    width: 200px
+  }
+
+  h1 {
+    font-size: 17px;
+  }
+
+  
 }

@@ -94,7 +94,7 @@ function Game({ socket }) {
   return (
     <div className="gameContainer">
       <h1>Make Your Choice</h1>
-      <div>
+      <div className="options">
         <button
           onClick={() => setChoice({ yourChoice: "rock", opponentChoice: "" })}
         >
