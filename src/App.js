@@ -28,9 +28,9 @@ function App() {
               <div className="top">
                 <h1>Welcome to Rock, Paper and Scissors</h1>
                 <p className="intro">
-                  Connect to a friend and play the game! To create a game, press
-                  the create game button. You will receive a code that you can
-                  send to your friend to enter in the same game as you.
+                  Connect With a friend and play the game! To create a game,
+                  press the create game button. You will receive a code that you
+                  can send to your friend to enter in the same game as you.
                 </p>
               </div>
 
