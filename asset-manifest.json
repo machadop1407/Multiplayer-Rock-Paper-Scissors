@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Multiplayer-Rock-Paper-Scissors/static/css/main.df5c7a92.chunk.css",
+    "main.js": "/Multiplayer-Rock-Paper-Scissors/static/js/main.695c59ba.chunk.js",
+    "main.js.map": "/Multiplayer-Rock-Paper-Scissors/static/js/main.695c59ba.chunk.js.map",
+    "runtime-main.js": "/Multiplayer-Rock-Paper-Scissors/static/js/runtime-main.2f35846a.js",
+    "runtime-main.js.map": "/Multiplayer-Rock-Paper-Scissors/static/js/runtime-main.2f35846a.js.map",
+    "static/js/2.0cedf8e0.chunk.js": "/Multiplayer-Rock-Paper-Scissors/static/js/2.0cedf8e0.chunk.js",
+    "static/js/2.0cedf8e0.chunk.js.map": "/Multiplayer-Rock-Paper-Scissors/static/js/2.0cedf8e0.chunk.js.map",
+    "static/js/3.41748025.chunk.js": "/Multiplayer-Rock-Paper-Scissors/static/js/3.41748025.chunk.js",
+    "static/js/3.41748025.chunk.js.map": "/Multiplayer-Rock-Paper-Scissors/static/js/3.41748025.chunk.js.map",
+    "index.html": "/Multiplayer-Rock-Paper-Scissors/index.html",
+    "static/css/main.df5c7a92.chunk.css.map": "/Multiplayer-Rock-Paper-Scissors/static/css/main.df5c7a92.chunk.css.map",
+    "static/js/2.0cedf8e0.chunk.js.LICENSE.txt": "/Multiplayer-Rock-Paper-Scissors/static/js/2.0cedf8e0.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2f35846a.js",
+    "static/js/2.0cedf8e0.chunk.js",
+    "static/css/main.df5c7a92.chunk.css",
+    "static/js/main.695c59ba.chunk.js"
+  ]
+}
