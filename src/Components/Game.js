@@ -96,18 +96,31 @@ function Game({ socket }) {
       <h1>Make Your Choice</h1>
       <div className="options">
         <button
-          onClick={() => setChoice({ yourChoice: "rock", opponentChoice: "" })}
+          onClick={() =>
+            setChoice({
+              yourChoice: "rock",
+              opponentChoice: choice.opponentChoice,
+            })
+          }
         >
           Rock
         </button>
         <button
-          onClick={() => setChoice({ yourChoice: "paper", opponentChoice: "" })}
+          onClick={() =>
+            setChoice({
+              yourChoice: "paper",
+              opponentChoice: choice.opponentChoice,
+            })
+          }
         >
           Paper
         </button>
         <button
           onClick={() =>
-            setChoice({ yourChoice: "scissors", opponentChoice: "" })
+            setChoice({
+              yourChoice: "scissors",
+              opponentChoice: choice.opponentChoice,
+            })
           }
         >
           Scissors
